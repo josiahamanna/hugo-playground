@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https:josiahamanna.github.io/hugo-playground/docs/another/</loc>
+    <lastmod>2023-12-17T16:26:08+05:30</lastmod>
+  </url><url>
+    <loc>https:josiahamanna.github.io/hugo-playground/docs/</loc>
+    <lastmod>2023-12-17T16:26:08+05:30</lastmod>
+  </url><url>
+    <loc>https:josiahamanna.github.io/hugo-playground/</loc>
+    <lastmod>2023-12-17T16:26:08+05:30</lastmod>
+  </url><url>
+    <loc>https:josiahamanna.github.io/hugo-playground/docs/test/</loc>
+    <lastmod>2023-12-17T15:35:41+05:30</lastmod>
+  </url><url>
+    <loc>https:josiahamanna.github.io/hugo-playground/categories/</loc>
+  </url><url>
+    <loc>https:josiahamanna.github.io/hugo-playground/tags/</loc>
+  </url>
+</urlset>
