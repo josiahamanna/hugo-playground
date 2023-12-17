@@ -1,0 +1,4 @@
+baseURL: "https:josiahamanna.github.io/hugo-playground/"
+languageCode: en-us
+title: My New Hugo Site
+theme: hugo-coder
